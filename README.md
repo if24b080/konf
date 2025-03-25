@@ -1,2 +1,2 @@
-# konf
+# KONF
 SS2205 KONF
